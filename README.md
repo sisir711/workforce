@@ -1,2 +1,3 @@
-# workforce
-Job metadata for practical purposes
+# workforce-go
+
+Workforce configuration as an API for practical purposes.
